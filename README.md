@@ -1,2 +1,2 @@
-# Cheat-Sheet-Project
-This is my first solo project via CodeCademy! 
+# About my first project!
+This is a cheat sheet I made as a simple project for CodeCademy!
